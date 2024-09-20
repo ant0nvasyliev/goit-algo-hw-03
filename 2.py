@@ -12,3 +12,7 @@ def get_numbers_ticket(min, max, quantity):
 
 
 get_numbers_ticket(1, 49, 6)
+# Ваші лотерейні числа: [15, 16, 17, 21, 22, 44]
+
+get_numbers_ticket(0, 49, 6)
+# Empty list
